@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YuriLee&fontSize=70)
 
-### 안녕하세요 👋
+## 안녕하세요 👋
 
-### 📬Email📬
+## 📬Email📬
 2yooree98@naver.com
 
-### ⚒️Tech Stack⚒️
+## ⚒️Tech Stack⚒️
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=ApacheMaven&logoColor=black"> &nbsp;
