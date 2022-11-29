@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YuriLee&fontSize=70)
 
-## 안녕하세요 👋
+### 안녕하세요 👋
 
 ## 📬Email📬
 2yooree98@naver.com
@@ -17,9 +17,11 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">&nbsp;
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">&nbsp;
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
 
+<br/>
 
+![yuri818's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri818&theme=omni&show_icons=true)
 
 <!--
 **yuri818/yuri818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,4 +37,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![yuri818's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri818&theme=omni&show_icons=true)
